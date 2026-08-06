@@ -173,10 +173,21 @@ test("Phone Tool page links into Path", async ({ page }) => {
   await page.goto("/");
   await expect(page.getByText("Phone Tool", { exact: true })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Jane Doe" })).toBeVisible();
+  await expect(page).toHaveURL(/\/phonetool\/jdoe$/);
 
   await page.getByRole("link", { name: /Find a resource/ }).click();
   await expect(page).toHaveURL(/\/path$/);
   await expect(page.getByText("Path", { exact: true })).toBeVisible();
+});
+
+test("per-alias Phone Tool profile renders for Jordan", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 960 });
+  await page.goto("/phonetool/jrivera");
+  await expect(
+    page.getByRole("heading", { name: "Jordan Rivera" })
+  ).toBeVisible();
+  await expect(page.getByText("jrivera@", { exact: true }).first()).toBeVisible();
+  await expect(page.getByText("Senior SDE, L6").first()).toBeVisible();
 });
 
 test("plain-text ownership query offers clickable options", async ({ page }) => {

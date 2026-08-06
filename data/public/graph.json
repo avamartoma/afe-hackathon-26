@@ -17,7 +17,7 @@
         "alias": "achen",
         "team": "Atlas Experience",
         "role": "SDE Intern",
-        "profileUrl": "https://phonetool.example.com/users/achen"
+        "profileUrl": "/phonetool/achen"
       }
     },
     {
@@ -32,7 +32,7 @@
         "alias": "jrivera",
         "team": "Atlas Experience",
         "role": "Senior SDE",
-        "profileUrl": "https://phonetool.example.com/users/jrivera"
+        "profileUrl": "/phonetool/jrivera"
       }
     },
     {
@@ -47,7 +47,7 @@
         "alias": "pshah",
         "team": "Atlas Experience",
         "role": "SDE III",
-        "profileUrl": "https://phonetool.example.com/users/pshah"
+        "profileUrl": "/phonetool/pshah"
       }
     },
     {

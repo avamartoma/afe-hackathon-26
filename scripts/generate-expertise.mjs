@@ -211,7 +211,7 @@ function nextPerson(team, role) {
       team: team.name,
       role,
       aliases: [`${first.toLowerCase()}.${last.toLowerCase()}`],
-      profileUrl: `https://phonetool.example.com/users/${alias}`
+      profileUrl: `/phonetool/${alias}`
     };
   }
   throw new Error("Ran out of unique names");

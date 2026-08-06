@@ -1951,3 +1951,10 @@ summary:focus-visible {
 .pt-org-meta {
   color: #8a939e;
 }
+
+/* Initials placeholder inside the badge photo area */
+.pt-badge-initials {
+  font-size: 34px;
+  font-weight: 700;
+  color: #5b6570;
+}

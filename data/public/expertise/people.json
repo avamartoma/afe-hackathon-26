@@ -8,7 +8,7 @@
     "aliases": [
       "lucas.iyer"
     ],
-    "profileUrl": "https://phonetool.example.com/users/liyer"
+    "profileUrl": "/phonetool/liyer"
   },
   {
     "id": "person:suki-petrov",
@@ -19,7 +19,7 @@
     "aliases": [
       "suki.petrov"
     ],
-    "profileUrl": "https://phonetool.example.com/users/spetrov"
+    "profileUrl": "/phonetool/spetrov"
   },
   {
     "id": "person:cole-sorensen",
@@ -30,7 +30,7 @@
     "aliases": [
       "cole.sorensen"
     ],
-    "profileUrl": "https://phonetool.example.com/users/csorensen"
+    "profileUrl": "/phonetool/csorensen"
   },
   {
     "id": "person:cato-sokolov",
@@ -41,7 +41,7 @@
     "aliases": [
       "cato.sokolov"
     ],
-    "profileUrl": "https://phonetool.example.com/users/csokolov"
+    "profileUrl": "/phonetool/csokolov"
   },
   {
     "id": "person:idris-varga",
@@ -52,7 +52,7 @@
     "aliases": [
       "idris.varga"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ivarga"
+    "profileUrl": "/phonetool/ivarga"
   },
   {
     "id": "person:lucas-castillo",
@@ -63,7 +63,7 @@
     "aliases": [
       "lucas.castillo"
     ],
-    "profileUrl": "https://phonetool.example.com/users/lcastillo"
+    "profileUrl": "/phonetool/lcastillo"
   },
   {
     "id": "person:cole-lindqvist",
@@ -74,7 +74,7 @@
     "aliases": [
       "cole.lindqvist"
     ],
-    "profileUrl": "https://phonetool.example.com/users/clindqvist"
+    "profileUrl": "/phonetool/clindqvist"
   },
   {
     "id": "person:sana-tanaka",
@@ -85,7 +85,7 @@
     "aliases": [
       "sana.tanaka"
     ],
-    "profileUrl": "https://phonetool.example.com/users/stanaka"
+    "profileUrl": "/phonetool/stanaka"
   },
   {
     "id": "person:aisha-brandt",
@@ -96,7 +96,7 @@
     "aliases": [
       "aisha.brandt"
     ],
-    "profileUrl": "https://phonetool.example.com/users/abrandt"
+    "profileUrl": "/phonetool/abrandt"
   },
   {
     "id": "person:sofia-iyer",
@@ -107,7 +107,7 @@
     "aliases": [
       "sofia.iyer"
     ],
-    "profileUrl": "https://phonetool.example.com/users/siyer"
+    "profileUrl": "/phonetool/siyer"
   },
   {
     "id": "person:sana-takeda",
@@ -118,7 +118,7 @@
     "aliases": [
       "sana.takeda"
     ],
-    "profileUrl": "https://phonetool.example.com/users/stakeda"
+    "profileUrl": "/phonetool/stakeda"
   },
   {
     "id": "person:maya-antar",
@@ -129,7 +129,7 @@
     "aliases": [
       "maya.antar"
     ],
-    "profileUrl": "https://phonetool.example.com/users/mantar"
+    "profileUrl": "/phonetool/mantar"
   },
   {
     "id": "person:marco-tanaka",
@@ -140,7 +140,7 @@
     "aliases": [
       "marco.tanaka"
     ],
-    "profileUrl": "https://phonetool.example.com/users/mtanaka"
+    "profileUrl": "/phonetool/mtanaka"
   },
   {
     "id": "person:cato-okafor",
@@ -151,7 +151,7 @@
     "aliases": [
       "cato.okafor"
     ],
-    "profileUrl": "https://phonetool.example.com/users/cokafor"
+    "profileUrl": "/phonetool/cokafor"
   },
   {
     "id": "person:kai-holm",
@@ -162,7 +162,7 @@
     "aliases": [
       "kai.holm"
     ],
-    "profileUrl": "https://phonetool.example.com/users/kholm"
+    "profileUrl": "/phonetool/kholm"
   },
   {
     "id": "person:niko-okafor",
@@ -173,7 +173,7 @@
     "aliases": [
       "niko.okafor"
     ],
-    "profileUrl": "https://phonetool.example.com/users/nokafor"
+    "profileUrl": "/phonetool/nokafor"
   },
   {
     "id": "person:sofia-delgado",
@@ -184,7 +184,7 @@
     "aliases": [
       "sofia.delgado"
     ],
-    "profileUrl": "https://phonetool.example.com/users/sdelgado"
+    "profileUrl": "/phonetool/sdelgado"
   },
   {
     "id": "person:idris-alvarez",
@@ -195,7 +195,7 @@
     "aliases": [
       "idris.alvarez"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ialvarez"
+    "profileUrl": "/phonetool/ialvarez"
   },
   {
     "id": "person:rosa-oduya",
@@ -206,7 +206,7 @@
     "aliases": [
       "rosa.oduya"
     ],
-    "profileUrl": "https://phonetool.example.com/users/roduya"
+    "profileUrl": "/phonetool/roduya"
   },
   {
     "id": "person:noah-iyer",
@@ -217,7 +217,7 @@
     "aliases": [
       "noah.iyer"
     ],
-    "profileUrl": "https://phonetool.example.com/users/niyer"
+    "profileUrl": "/phonetool/niyer"
   },
   {
     "id": "person:alma-tanaka",
@@ -228,7 +228,7 @@
     "aliases": [
       "alma.tanaka"
     ],
-    "profileUrl": "https://phonetool.example.com/users/atanaka"
+    "profileUrl": "/phonetool/atanaka"
   },
   {
     "id": "person:maya-rahim",
@@ -239,7 +239,7 @@
     "aliases": [
       "maya.rahim"
     ],
-    "profileUrl": "https://phonetool.example.com/users/mrahim"
+    "profileUrl": "/phonetool/mrahim"
   },
   {
     "id": "person:jonas-rahim",
@@ -250,7 +250,7 @@
     "aliases": [
       "jonas.rahim"
     ],
-    "profileUrl": "https://phonetool.example.com/users/jrahim"
+    "profileUrl": "/phonetool/jrahim"
   },
   {
     "id": "person:wren-kimura",
@@ -261,7 +261,7 @@
     "aliases": [
       "wren.kimura"
     ],
-    "profileUrl": "https://phonetool.example.com/users/wkimura"
+    "profileUrl": "/phonetool/wkimura"
   },
   {
     "id": "person:nadia-moreau",
@@ -272,7 +272,7 @@
     "aliases": [
       "nadia.moreau"
     ],
-    "profileUrl": "https://phonetool.example.com/users/nmoreau"
+    "profileUrl": "/phonetool/nmoreau"
   },
   {
     "id": "person:leila-sokolov",
@@ -283,7 +283,7 @@
     "aliases": [
       "leila.sokolov"
     ],
-    "profileUrl": "https://phonetool.example.com/users/lsokolov"
+    "profileUrl": "/phonetool/lsokolov"
   },
   {
     "id": "person:rosa-varga",
@@ -294,7 +294,7 @@
     "aliases": [
       "rosa.varga"
     ],
-    "profileUrl": "https://phonetool.example.com/users/rvarga"
+    "profileUrl": "/phonetool/rvarga"
   },
   {
     "id": "person:ezra-larsen",
@@ -305,7 +305,7 @@
     "aliases": [
       "ezra.larsen"
     ],
-    "profileUrl": "https://phonetool.example.com/users/elarsen"
+    "profileUrl": "/phonetool/elarsen"
   },
   {
     "id": "person:ravi-steiner",
@@ -316,7 +316,7 @@
     "aliases": [
       "ravi.steiner"
     ],
-    "profileUrl": "https://phonetool.example.com/users/rsteiner"
+    "profileUrl": "/phonetool/rsteiner"
   },
   {
     "id": "person:vera-nakamura",
@@ -327,7 +327,7 @@
     "aliases": [
       "vera.nakamura"
     ],
-    "profileUrl": "https://phonetool.example.com/users/vnakamura"
+    "profileUrl": "/phonetool/vnakamura"
   },
   {
     "id": "person:bruno-silva",
@@ -338,7 +338,7 @@
     "aliases": [
       "bruno.silva"
     ],
-    "profileUrl": "https://phonetool.example.com/users/bsilva"
+    "profileUrl": "/phonetool/bsilva"
   },
   {
     "id": "person:aldo-novak",
@@ -349,7 +349,7 @@
     "aliases": [
       "aldo.novak"
     ],
-    "profileUrl": "https://phonetool.example.com/users/anovak"
+    "profileUrl": "/phonetool/anovak"
   },
   {
     "id": "person:diego-abara",
@@ -360,7 +360,7 @@
     "aliases": [
       "diego.abara"
     ],
-    "profileUrl": "https://phonetool.example.com/users/dabara"
+    "profileUrl": "/phonetool/dabara"
   },
   {
     "id": "person:ethan-castillo",
@@ -371,7 +371,7 @@
     "aliases": [
       "ethan.castillo"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ecastillo"
+    "profileUrl": "/phonetool/ecastillo"
   },
   {
     "id": "person:omar-egede",
@@ -382,7 +382,7 @@
     "aliases": [
       "omar.egede"
     ],
-    "profileUrl": "https://phonetool.example.com/users/oegede"
+    "profileUrl": "/phonetool/oegede"
   },
   {
     "id": "person:kai-mensah",
@@ -393,7 +393,7 @@
     "aliases": [
       "kai.mensah"
     ],
-    "profileUrl": "https://phonetool.example.com/users/kmensah"
+    "profileUrl": "/phonetool/kmensah"
   },
   {
     "id": "person:owen-kowalski",
@@ -404,7 +404,7 @@
     "aliases": [
       "owen.kowalski"
     ],
-    "profileUrl": "https://phonetool.example.com/users/okowalski"
+    "profileUrl": "/phonetool/okowalski"
   },
   {
     "id": "person:marco-brandt",
@@ -415,7 +415,7 @@
     "aliases": [
       "marco.brandt"
     ],
-    "profileUrl": "https://phonetool.example.com/users/mbrandt"
+    "profileUrl": "/phonetool/mbrandt"
   },
   {
     "id": "person:ivy-steiner",
@@ -426,7 +426,7 @@
     "aliases": [
       "ivy.steiner"
     ],
-    "profileUrl": "https://phonetool.example.com/users/isteiner"
+    "profileUrl": "/phonetool/isteiner"
   },
   {
     "id": "person:elsa-iyer",
@@ -437,7 +437,7 @@
     "aliases": [
       "elsa.iyer"
     ],
-    "profileUrl": "https://phonetool.example.com/users/eiyer"
+    "profileUrl": "/phonetool/eiyer"
   },
   {
     "id": "person:ezra-vidal",
@@ -448,7 +448,7 @@
     "aliases": [
       "ezra.vidal"
     ],
-    "profileUrl": "https://phonetool.example.com/users/evidal"
+    "profileUrl": "/phonetool/evidal"
   },
   {
     "id": "person:aldo-antar",
@@ -459,7 +459,7 @@
     "aliases": [
       "aldo.antar"
     ],
-    "profileUrl": "https://phonetool.example.com/users/aantar"
+    "profileUrl": "/phonetool/aantar"
   },
   {
     "id": "person:jonas-petrov",
@@ -470,7 +470,7 @@
     "aliases": [
       "jonas.petrov"
     ],
-    "profileUrl": "https://phonetool.example.com/users/jpetrov"
+    "profileUrl": "/phonetool/jpetrov"
   },
   {
     "id": "person:yuki-nakamura",
@@ -481,7 +481,7 @@
     "aliases": [
       "yuki.nakamura"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ynakamura"
+    "profileUrl": "/phonetool/ynakamura"
   },
   {
     "id": "person:sam-brandt",
@@ -492,7 +492,7 @@
     "aliases": [
       "sam.brandt"
     ],
-    "profileUrl": "https://phonetool.example.com/users/sbrandt"
+    "profileUrl": "/phonetool/sbrandt"
   },
   {
     "id": "person:wren-sorensen",
@@ -503,7 +503,7 @@
     "aliases": [
       "wren.sorensen"
     ],
-    "profileUrl": "https://phonetool.example.com/users/wsorensen"
+    "profileUrl": "/phonetool/wsorensen"
   },
   {
     "id": "person:tara-castillo",
@@ -514,7 +514,7 @@
     "aliases": [
       "tara.castillo"
     ],
-    "profileUrl": "https://phonetool.example.com/users/tcastillo"
+    "profileUrl": "/phonetool/tcastillo"
   },
   {
     "id": "person:rosa-novak",
@@ -525,7 +525,7 @@
     "aliases": [
       "rosa.novak"
     ],
-    "profileUrl": "https://phonetool.example.com/users/rnovak"
+    "profileUrl": "/phonetool/rnovak"
   },
   {
     "id": "person:fatima-tanaka",
@@ -536,7 +536,7 @@
     "aliases": [
       "fatima.tanaka"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ftanaka"
+    "profileUrl": "/phonetool/ftanaka"
   },
   {
     "id": "person:lena-oduya",
@@ -547,7 +547,7 @@
     "aliases": [
       "lena.oduya"
     ],
-    "profileUrl": "https://phonetool.example.com/users/loduya"
+    "profileUrl": "/phonetool/loduya"
   },
   {
     "id": "person:ben-abara",
@@ -558,7 +558,7 @@
     "aliases": [
       "ben.abara"
     ],
-    "profileUrl": "https://phonetool.example.com/users/babara"
+    "profileUrl": "/phonetool/babara"
   },
   {
     "id": "person:ben-brandt",
@@ -569,7 +569,7 @@
     "aliases": [
       "ben.brandt"
     ],
-    "profileUrl": "https://phonetool.example.com/users/bbrandt"
+    "profileUrl": "/phonetool/bbrandt"
   },
   {
     "id": "person:cole-castillo",
@@ -580,7 +580,7 @@
     "aliases": [
       "cole.castillo"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ccastillo"
+    "profileUrl": "/phonetool/ccastillo"
   },
   {
     "id": "person:cole-brandt",
@@ -591,7 +591,7 @@
     "aliases": [
       "cole.brandt"
     ],
-    "profileUrl": "https://phonetool.example.com/users/cbrandt"
+    "profileUrl": "/phonetool/cbrandt"
   },
   {
     "id": "person:bruno-steiner",
@@ -602,7 +602,7 @@
     "aliases": [
       "bruno.steiner"
     ],
-    "profileUrl": "https://phonetool.example.com/users/bsteiner"
+    "profileUrl": "/phonetool/bsteiner"
   },
   {
     "id": "person:ivy-vance",
@@ -613,7 +613,7 @@
     "aliases": [
       "ivy.vance"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ivance"
+    "profileUrl": "/phonetool/ivance"
   },
   {
     "id": "person:maya-haddad",
@@ -624,7 +624,7 @@
     "aliases": [
       "maya.haddad"
     ],
-    "profileUrl": "https://phonetool.example.com/users/mhaddad"
+    "profileUrl": "/phonetool/mhaddad"
   },
   {
     "id": "person:sam-novak",
@@ -635,7 +635,7 @@
     "aliases": [
       "sam.novak"
     ],
-    "profileUrl": "https://phonetool.example.com/users/snovak"
+    "profileUrl": "/phonetool/snovak"
   },
   {
     "id": "person:felix-steiner",
@@ -646,7 +646,7 @@
     "aliases": [
       "felix.steiner"
     ],
-    "profileUrl": "https://phonetool.example.com/users/fsteiner"
+    "profileUrl": "/phonetool/fsteiner"
   },
   {
     "id": "person:kai-kimura",
@@ -657,7 +657,7 @@
     "aliases": [
       "kai.kimura"
     ],
-    "profileUrl": "https://phonetool.example.com/users/kkimura"
+    "profileUrl": "/phonetool/kkimura"
   },
   {
     "id": "person:yuki-kowalski",
@@ -668,7 +668,7 @@
     "aliases": [
       "yuki.kowalski"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ykowalski"
+    "profileUrl": "/phonetool/ykowalski"
   },
   {
     "id": "person:dina-castillo",
@@ -679,7 +679,7 @@
     "aliases": [
       "dina.castillo"
     ],
-    "profileUrl": "https://phonetool.example.com/users/dcastillo"
+    "profileUrl": "/phonetool/dcastillo"
   },
   {
     "id": "person:chloe-egede",
@@ -690,7 +690,7 @@
     "aliases": [
       "chloe.egede"
     ],
-    "profileUrl": "https://phonetool.example.com/users/cegede"
+    "profileUrl": "/phonetool/cegede"
   },
   {
     "id": "person:maya-vidal",
@@ -701,7 +701,7 @@
     "aliases": [
       "maya.vidal"
     ],
-    "profileUrl": "https://phonetool.example.com/users/mvidal"
+    "profileUrl": "/phonetool/mvidal"
   },
   {
     "id": "person:sofia-kimura",
@@ -712,7 +712,7 @@
     "aliases": [
       "sofia.kimura"
     ],
-    "profileUrl": "https://phonetool.example.com/users/skimura"
+    "profileUrl": "/phonetool/skimura"
   },
   {
     "id": "person:idris-fontaine",
@@ -723,7 +723,7 @@
     "aliases": [
       "idris.fontaine"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ifontaine"
+    "profileUrl": "/phonetool/ifontaine"
   },
   {
     "id": "person:elsa-fontaine",
@@ -734,7 +734,7 @@
     "aliases": [
       "elsa.fontaine"
     ],
-    "profileUrl": "https://phonetool.example.com/users/efontaine"
+    "profileUrl": "/phonetool/efontaine"
   },
   {
     "id": "person:niko-egede",
@@ -745,7 +745,7 @@
     "aliases": [
       "niko.egede"
     ],
-    "profileUrl": "https://phonetool.example.com/users/negede"
+    "profileUrl": "/phonetool/negede"
   },
   {
     "id": "person:lucas-takeda",
@@ -756,7 +756,7 @@
     "aliases": [
       "lucas.takeda"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ltakeda"
+    "profileUrl": "/phonetool/ltakeda"
   },
   {
     "id": "person:dina-vidal",
@@ -767,7 +767,7 @@
     "aliases": [
       "dina.vidal"
     ],
-    "profileUrl": "https://phonetool.example.com/users/dvidal"
+    "profileUrl": "/phonetool/dvidal"
   },
   {
     "id": "person:petra-steiner",
@@ -778,7 +778,7 @@
     "aliases": [
       "petra.steiner"
     ],
-    "profileUrl": "https://phonetool.example.com/users/psteiner"
+    "profileUrl": "/phonetool/psteiner"
   },
   {
     "id": "person:ravi-okafor",
@@ -789,7 +789,7 @@
     "aliases": [
       "ravi.okafor"
     ],
-    "profileUrl": "https://phonetool.example.com/users/rokafor"
+    "profileUrl": "/phonetool/rokafor"
   },
   {
     "id": "person:theo-mbeki",
@@ -800,7 +800,7 @@
     "aliases": [
       "theo.mbeki"
     ],
-    "profileUrl": "https://phonetool.example.com/users/tmbeki"
+    "profileUrl": "/phonetool/tmbeki"
   },
   {
     "id": "person:sam-egede",
@@ -811,7 +811,7 @@
     "aliases": [
       "sam.egede"
     ],
-    "profileUrl": "https://phonetool.example.com/users/segede"
+    "profileUrl": "/phonetool/segede"
   },
   {
     "id": "person:rosa-moreau",
@@ -822,7 +822,7 @@
     "aliases": [
       "rosa.moreau"
     ],
-    "profileUrl": "https://phonetool.example.com/users/rmoreau"
+    "profileUrl": "/phonetool/rmoreau"
   },
   {
     "id": "person:rosa-marino",
@@ -833,7 +833,7 @@
     "aliases": [
       "rosa.marino"
     ],
-    "profileUrl": "https://phonetool.example.com/users/rmarino"
+    "profileUrl": "/phonetool/rmarino"
   },
   {
     "id": "person:leila-sorensen",
@@ -844,7 +844,7 @@
     "aliases": [
       "leila.sorensen"
     ],
-    "profileUrl": "https://phonetool.example.com/users/lsorensen"
+    "profileUrl": "/phonetool/lsorensen"
   },
   {
     "id": "person:amara-duval",
@@ -855,7 +855,7 @@
     "aliases": [
       "amara.duval"
     ],
-    "profileUrl": "https://phonetool.example.com/users/aduval"
+    "profileUrl": "/phonetool/aduval"
   },
   {
     "id": "person:ben-iyer",
@@ -866,7 +866,7 @@
     "aliases": [
       "ben.iyer"
     ],
-    "profileUrl": "https://phonetool.example.com/users/biyer"
+    "profileUrl": "/phonetool/biyer"
   },
   {
     "id": "person:petra-varga",
@@ -877,7 +877,7 @@
     "aliases": [
       "petra.varga"
     ],
-    "profileUrl": "https://phonetool.example.com/users/pvarga"
+    "profileUrl": "/phonetool/pvarga"
   },
   {
     "id": "person:yuki-bishop",
@@ -888,7 +888,7 @@
     "aliases": [
       "yuki.bishop"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ybishop"
+    "profileUrl": "/phonetool/ybishop"
   },
   {
     "id": "person:jonas-silva",
@@ -899,7 +899,7 @@
     "aliases": [
       "jonas.silva"
     ],
-    "profileUrl": "https://phonetool.example.com/users/jsilva"
+    "profileUrl": "/phonetool/jsilva"
   },
   {
     "id": "person:fatima-mensah",
@@ -910,7 +910,7 @@
     "aliases": [
       "fatima.mensah"
     ],
-    "profileUrl": "https://phonetool.example.com/users/fmensah"
+    "profileUrl": "/phonetool/fmensah"
   },
   {
     "id": "person:leila-egede",
@@ -921,7 +921,7 @@
     "aliases": [
       "leila.egede"
     ],
-    "profileUrl": "https://phonetool.example.com/users/legede"
+    "profileUrl": "/phonetool/legede"
   },
   {
     "id": "person:leila-petrov",
@@ -932,7 +932,7 @@
     "aliases": [
       "leila.petrov"
     ],
-    "profileUrl": "https://phonetool.example.com/users/lpetrov"
+    "profileUrl": "/phonetool/lpetrov"
   },
   {
     "id": "person:aisha-vance",
@@ -943,7 +943,7 @@
     "aliases": [
       "aisha.vance"
     ],
-    "profileUrl": "https://phonetool.example.com/users/avance"
+    "profileUrl": "/phonetool/avance"
   },
   {
     "id": "person:amara-varga",
@@ -954,7 +954,7 @@
     "aliases": [
       "amara.varga"
     ],
-    "profileUrl": "https://phonetool.example.com/users/avarga"
+    "profileUrl": "/phonetool/avarga"
   },
   {
     "id": "person:ezra-bishop",
@@ -965,7 +965,7 @@
     "aliases": [
       "ezra.bishop"
     ],
-    "profileUrl": "https://phonetool.example.com/users/ebishop"
+    "profileUrl": "/phonetool/ebishop"
   },
   {
     "id": "person:noah-alvarez",
@@ -976,6 +976,6 @@
     "aliases": [
       "noah.alvarez"
     ],
-    "profileUrl": "https://phonetool.example.com/users/nalvarez"
+    "profileUrl": "/phonetool/nalvarez"
   }
 ]

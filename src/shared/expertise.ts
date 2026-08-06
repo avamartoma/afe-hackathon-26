@@ -14,7 +14,7 @@ export const ExpertisePersonSchema = z.object({
   team: z.string().min(2),
   role: z.string().min(2),
   aliases: z.array(z.string().min(2)).default([]),
-  profileUrl: z.string().url().optional()
+  profileUrl: z.string().min(1).optional()
 });
 
 export const ExpertiseResourceSchema = z.object({
